@@ -1,0 +1,8 @@
+id:-sample
+exam(sample):-sample exam
+author(sample):-vishal
+
+id:-sample1
+exam(sample1):-sample exam 2
+author(sample1):-vishal
+
